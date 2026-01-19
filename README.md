@@ -1,1 +1,1 @@
-# agrigrade-ai-backend
+print("AgriGrade backend ready.")
